@@ -1,6 +1,6 @@
+
 !/bin/bash
 eco "ALX School is so cool!"o "ALX"
-=======
-echo "ALX School"
+
 echo "ALX"
 >>>>>>> update_script
